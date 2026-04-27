@@ -28,7 +28,7 @@ Each person has two alleles, and the child randomly inherits one allele from eac
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/inheritance.git
+git clone https://github.com/kabincs9/inheritance.git
 cd inheritance
 
 # Compile
